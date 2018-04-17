@@ -1,1 +1,1 @@
-Hi i ama Rajib and new to GIT repository
+Hi i am Rajib and new to GIT repository
